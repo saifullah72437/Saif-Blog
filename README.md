@@ -3,7 +3,7 @@
 🔗[Live Site](https://saif-blog-2fb1zmvbm-saifullah72437s-projects.vercel.app/)
 
 ## What I use to Make This App ? 🤔 
-👉 I use React Redux for State management
+👉 I use React Redux for State management.
 👉 I also use redux toolkit for State management
 👉 I use Appwrite for Authentication, Database and Storage
 👉 I use TinyMCE for Real time Editor (RTE) for Post Create and Edit
