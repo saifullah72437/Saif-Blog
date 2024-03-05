@@ -1,6 +1,6 @@
 # Saif Blog | My Mega Blog App
 
-🔗[Live Site](https://saif-blog-2fb1zmvbm-saifullah72437s-projects.vercel.app/)
+🔗[Live Site](https://saif-blog-saifullah72437s-projects.vercel.app/)
 
 ## What I use to Make This App ? 🤔 
 👉 I use React Redux for State management.
