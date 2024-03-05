@@ -3,13 +3,13 @@
 🔗[Live Site](https://saif-blog-saifullah72437s-projects.vercel.app/)
 
 ## What I use to Make This App ? 🤔 
-👉 I use React Redux for State management.
-👉 I also use redux toolkit for State management
-👉 I use Appwrite for Authentication, Database and Storage
-👉 I use TinyMCE for Real time Editor (RTE) for Post Create and Edit
-👉 I use react hook form for form validation verification and error controlles
-👉 I use HTML React Parser for parse Real time Editor into text and store it in appwrite database.
-👉 I use React Router DOM for managing Routers
+👉 I use React Redux for State management. <br>
+👉 I also use redux toolkit for State management. <br>
+👉 I use Appwrite for Authentication, Database and Storage. <br>
+👉 I use TinyMCE for Real time Editor (RTE) for Post Create and Edit. <br>
+👉 I use react hook form for form validation verification and error controlles. <br>
+👉 I use HTML React Parser for parse Real time Editor into text and store it in appwrite database. <br>
+👉 I use React Router DOM for managing Routers. <br>
 
 
 ## Screen Shorts:
